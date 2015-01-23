@@ -11,9 +11,11 @@ h1 {
 h2 {
 	color: #CEDDDD;
 	font-family: Verdana;
+	text-align: center;
 }
 
 .blogpost {
+	margin: 10px;
 	color: #CEDDDD;
 	font-family: Verdana;
 }
@@ -22,10 +24,12 @@ h2 {
 }
 
 article {
-	margin: 0 auto;
+	margin: 35px auto;
 	width: 85%;
 	border: 3px solid black;
 	border-radius: 10px;
 	background-color: rgba(0, 0, 0, 0.5);
+	text-align: left;
+	box-shadow: 10px 10px 20px #000000;
 
 }
